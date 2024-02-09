@@ -1,2 +1,2 @@
-# lab-crud-nodejs
+# crud-nodejs
 # NodeJs-Crud
